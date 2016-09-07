@@ -6,7 +6,7 @@ As easy as:
 
      mvn clean install
 
-Running Atsy locally:
+Running locally:
 =========================
 
     mvn spring-boot:run
